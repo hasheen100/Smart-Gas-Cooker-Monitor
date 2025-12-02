@@ -2,14 +2,9 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-brightgreen.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Hardware](https://img.shields.io/badge/Hardware-ESP32-orange.svg)
 
 **Real-time Gas Cooker Safety Monitoring System**
 
-![Dashboard Preview](images/dashboard_preview.png)
 
 *A comprehensive desktop application for monitoring gas cooker safety parameters using ESP32 and Python*
 
