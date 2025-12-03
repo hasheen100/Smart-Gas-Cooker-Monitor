@@ -70,5 +70,7 @@
 Python >= 3.7(Basically needed)
 tkinter (usually included with Python)
 (I uploaded .exe fle,So can try it)
+(#Over.py is python app fie
+#other one is Arudino file)
 
 
