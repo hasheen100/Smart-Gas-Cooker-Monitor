@@ -1,14 +1,21 @@
 # GasHealth Monitor - ESP32 Multi-Sensor Dashboard
 
 <div align="center">
-
+Time- value(Auto Mode)
 <img width="1364" height="719" alt="image" src="https://github.com/user-attachments/assets/ef9f42ba-5601-43a3-af9a-ed7e79f8e5a2" />
+  Speedmeter(Auto Mode)
+<img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/1407727e-aa8c-496c-bcde-286bb262e2e8" />
+  Digital(Auto Mode)
+<img width="1366" height="722" alt="image" src="https://github.com/user-attachments/assets/179cdce6-c4bb-497f-9d0b-e4f4f0f4d16e" />
+  (Manual Mode)
+<img width="1364" height="716" alt="image" src="https://github.com/user-attachments/assets/02c57c36-7a26-4ca9-bbe3-9c5a1bf20e71" />
+
+
 **Real-time Gas Cooker Safety Monitoring System**
 
 
 *A comprehensive desktop application for monitoring gas cooker safety parameters using ESP32 and Python* 
 *( GUI Development Tkinter usually comes with Python)*
-<img width="1364" height="716" alt="image" src="https://github.com/user-attachments/assets/02c57c36-7a26-4ca9-bbe3-9c5a1bf20e71" />
 
 
 </div>
@@ -41,7 +48,7 @@
 - **Adaptive filtering** that improves over time
 - **Efficient memory usage** with optimized buffers
 - **Thread-safe serial communication**
-- - **can change the Sensivity**
+- **can change the Sensivity by Varible Resistor**
 
 ## 🛠️ Hardware Requirements
 
