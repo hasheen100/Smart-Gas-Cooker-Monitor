@@ -42,23 +42,13 @@
 | **Light** | Threshold-based graph | Brightness meter | ADC values with state |
 | **Temperature** | Temperature trend | Multi-zone gauge | Celsius display |
 
+
 ### **⚡ Performance**
 - **100ms update rate** for real-time responsiveness
 - **Adaptive filtering** that improves over time
 - **Efficient memory usage** with optimized buffers
 - **Thread-safe serial communication**
-
-  
-### **⚡ usage-guide**
-- **100ms update rate** for real-time responsiveness
-- **Adaptive filtering** that improves over time
-- **Efficient memory usage** with optimized buffers
-- **Thread-safe serial communication**
-
-
-
-
-
+- - **can change the Sensivity**
 
 ## 🛠️ Hardware Requirements
 
