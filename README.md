@@ -6,7 +6,8 @@
 **Real-time Gas Cooker Safety Monitoring System**
 
 
-*A comprehensive desktop application for monitoring gas cooker safety parameters using ESP32 and Python*
+*A comprehensive desktop application for monitoring gas cooker safety parameters using ESP32 and Python* 
+*( GUI Development Tkinter usually comes with Python)*
 
 </div>
 
@@ -59,6 +60,7 @@
 | **LEDs** | 5mm LEDs (Red/Green/Blue) | Status indicators |
 | **Resistors** | 220Ω for LEDs, 10kΩ for LDR | Current limiting/pull-up |
 | **Breadboard & Jumper Wires** | Standard kit | Circuit connections |
+| **Doat Board** | Standard kit | Stable Circuit connections |
 
 ### **Optional Add-ons**
 - **OLED Display** for local monitoring
