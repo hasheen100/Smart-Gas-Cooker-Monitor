@@ -17,14 +17,7 @@
 - [✨ Features](#-features)
 - [🛠️ Hardware Requirements](#️-hardware-requirements)
 - [💻 Software Requirements](#-software-requirements)
-- [🚀 Quick Start](#-quick-start)
-- [🔧 Usage Guide](#-usage-guide)
-- [📊 Sensor Specifications](#-sensor-specifications)
-- [🏗️ Project Structure](#️-project-structure)
-- [🔌 Wiring Diagram](#-wiring-diagram)
-- [📝 Code Examples](#-code-examples)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+
 
 ## ✨ Features
 
