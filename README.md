@@ -2,12 +2,14 @@
 
 <div align="center">
 
-
+<img width="1364" height="719" alt="image" src="https://github.com/user-attachments/assets/ef9f42ba-5601-43a3-af9a-ed7e79f8e5a2" />
 **Real-time Gas Cooker Safety Monitoring System**
 
 
 *A comprehensive desktop application for monitoring gas cooker safety parameters using ESP32 and Python* 
 *( GUI Development Tkinter usually comes with Python)*
+<img width="1364" height="716" alt="image" src="https://github.com/user-attachments/assets/02c57c36-7a26-4ca9-bbe3-9c5a1bf20e71" />
+
 
 </div>
 
@@ -46,23 +48,35 @@
 - **Efficient memory usage** with optimized buffers
 - **Thread-safe serial communication**
 
+  
+### **⚡ usage-guide**
+- **100ms update rate** for real-time responsiveness
+- **Adaptive filtering** that improves over time
+- **Efficient memory usage** with optimized buffers
+- **Thread-safe serial communication**
+
+
+
+
+
+
 ## 🛠️ Hardware Requirements
 
 ### **Essential Components**
 | Component | Specification | Purpose |
 |-----------|---------------|---------|
 | **ESP32 Board** | ESP32 DevKit v1 or similar | Main microcontroller |
-| **Gas Sensor** | MQ-2/MQ-5/MQ-9 | Gas concentration detection |
+| **Gas Sensor** | MQ-2/MQ-135 | Gas concentration detection |
 | **LDR Sensor** | Photoresistor GL5528 | Light intensity measurement |
-| **Temperature Sensor** | LM35 or NTC thermistor | Temperature monitoring |
-| **LEDs** | 5mm LEDs (Red/Green/Blue) | Status indicators |
+| **Temperature Sensor** | NTC thermistor | Temperature monitoring |
+| **LEDs** | 5mm LEDs (Red/Green/RED) | Status indicators |
 | **Resistors** | 220Ω for LEDs, 10kΩ for LDR | Current limiting/pull-up |
 | **Breadboard & Jumper Wires** | Standard kit | Circuit connections |
 | **Doat Board** | Standard kit | Stable Circuit connections |
 
 ### **Optional Add-ons**
 - **OLED Display** for local monitoring
-- **Buzzer** for audible alerts
+- **Buzzer** for Danger thinges
 - **Relay Module** for automatic shutoff
 - **External Power Supply** for stability
 
@@ -73,5 +87,5 @@
 Python >= 3.7(Basically needed)
 tkinter (usually included with Python)
 (I uploaded .exe fle,So can try it)
-<img width="1364" height="719" alt="image" src="https://github.com/user-attachments/assets/ef9f42ba-5601-43a3-af9a-ed7e79f8e5a2" />
+
 
