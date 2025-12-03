@@ -16,7 +16,6 @@
 - [🛠️ Hardware Requirements](#️-hardware-requirements)
 - [💻 Software Requirements](#-software-requirements)
 - [🚀 Quick Start](#-quick-start)
-- [📦 Installation](#-installation)
 - [🔧 Usage Guide](#-usage-guide)
 - [📊 Sensor Specifications](#-sensor-specifications)
 - [🏗️ Project Structure](#️-project-structure)
@@ -24,7 +23,6 @@
 - [📝 Code Examples](#-code-examples)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
-- [🙏 Acknowledgments](#-acknowledgments)
 
 ## ✨ Features
 
@@ -72,7 +70,8 @@
 
 ### **Python Dependencies**
 ```txt
-Python >= 3.7
-pyserial >= 3.5
-numpy >= 1.19.0
+Python >= 3.7(Basically needed)
 tkinter (usually included with Python)
+(I uploaded .exe fle,So can try it)
+<img width="1364" height="719" alt="image" src="https://github.com/user-attachments/assets/ef9f42ba-5601-43a3-af9a-ed7e79f8e5a2" />
+
